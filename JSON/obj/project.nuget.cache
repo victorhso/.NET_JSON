@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5x/A3BS33k3AoUu7LuV7nbMopa+GeE7CLInMNrXVt+iMH9ueMSmrkcf+oOXnvSsl5IPfrI3kvMr5E8QSWpZOMA==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\JSON\\JSON\\JSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
